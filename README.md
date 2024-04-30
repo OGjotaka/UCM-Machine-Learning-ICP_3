@@ -1,4 +1,4 @@
-# ICP_1
+# ICP_3A
 UCM CS 4710
-Machine Learning Homework 1
-Questions 1 - 9
+Machine Learning Homework 3 Part A
+Questions a - d
